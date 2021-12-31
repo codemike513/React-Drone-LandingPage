@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-drone-landingpage/static/css/main.4b3fd012.css",
+    "main.js": "/react-drone-landingpage/static/js/main.92f1809d.js",
+    "static/js/898.9adeda46.chunk.js": "/react-drone-landingpage/static/js/898.9adeda46.chunk.js",
+    "static/js/168.3520a5aa.chunk.js": "/react-drone-landingpage/static/js/168.3520a5aa.chunk.js",
+    "index.html": "/react-drone-landingpage/index.html",
+    "main.4b3fd012.css.map": "/react-drone-landingpage/static/css/main.4b3fd012.css.map",
+    "main.92f1809d.js.map": "/react-drone-landingpage/static/js/main.92f1809d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b3fd012.css",
+    "static/js/main.92f1809d.js"
+  ]
+}
